@@ -81,6 +81,8 @@ const SidebarStyled = styled.nav`
   justify-content: space-between;
   color: ${(props) => props.theme.colorGrey3};
 
+  
+
   .user-btn {
     .cl-rootBox {
       width: 100%;
